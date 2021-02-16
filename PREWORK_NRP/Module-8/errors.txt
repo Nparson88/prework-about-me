@@ -1,0 +1,9 @@
+fixed the image by adding "<>"
+fixed the url link to wikipedia by putting quotes around the link then adding the text link to be clickable.
+fixed the bio to appear cleaner by splitting up the text into paragraphs
+fixed the title by adding "<h1></h1>"
+fixed favorite things by adding "<li></li>"
+restructured the code by moving <div/> brackets
+fixed js link from errors.js to logic.js
+fixed the grow/shrink by adding "" to click 
+
